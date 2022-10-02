@@ -1,0 +1,1 @@
+# Assignment-04-triple_all_number.pys-
